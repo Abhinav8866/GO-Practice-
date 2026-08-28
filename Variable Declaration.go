@@ -6,7 +6,7 @@ func main(){
 	var Student2 string = "user"
 	x := 2
 
-	fmt.Print(Student1)
-	fmt.Print(Student2)
-	fmt.Print(x)
+	fmt.Println(Student1)
+	fmt.Println(Student2)
+	fmt.Println(x)
 }

@@ -1,13 +1,12 @@
 package main
+
 import "fmt"
 
-var a int
-var b int = 2
-var c = 3
-
 func main() {
-	a = 1
+	var a, b, c, d int = 1, 3, 5, 7
+
 	fmt.Println(a)
 	fmt.Println(b)
 	fmt.Println(c)
+	fmt.Println(d)
 }

@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-const A int = 1
+const a int = 1
 
 func main() {
-	fmt.Println(A)
+	fmt.Println(a)
 }
